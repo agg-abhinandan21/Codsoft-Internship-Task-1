@@ -4,6 +4,7 @@
 I'm excited to share that I’ve completed my first task as part of the CodSoft Internship Program — a To-Do List application built using Python.
 
 🧠 What I Learned:
+
 ✅ File handling with JSON for persistent storage
 ✅ Building a simple CLI user interface
 ✅ CRUD operations (Create, Read, Update, Delete)
